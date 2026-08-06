@@ -2,7 +2,7 @@
 
 <!-- Cabeçalho com Onda (Verde Suave Dracula) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16324F&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A0C12,100:B8860B&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
 
 
 
@@ -38,4 +38,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16324F&height=100&section=footer" alt="Cabeçalho Animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A0C12,100:B8860B&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
