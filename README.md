@@ -1,116 +1,120 @@
-<div align="center">
+# 👨🏻‍💻 Murilo
 
-# Olá, eu sou Murilo Belizário! 👋
+**`Estudante de Informática | Desenvolvedor em Formação`**
 
-### Estudante de Informática | Desenvolvedor em formação | Futuro Engenheiro de Software
+Me chamo **Murilo**, sou estudante do curso **Técnico Integrado em Informática** no **IFCE – Campus Maranguape**. Sou apaixonado por tecnologia e estou constantemente explorando novas áreas do desenvolvimento de software, desde o front-end até o back-end, banco de dados e desenvolvimento de aplicações. Busco transformar conhecimento em projetos práticos e evoluir continuamente como desenvolvedor.
 
-[![GitHub](https://img.shields.io/badge/GitHub-MuriStack-181717?style=for-the-badge&logo=github)](https://github.com/MuriStack)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilo.belizario12@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Olá! Sou **Murilo Belizário**, estudante do **Curso Técnico Integrado em Informática** no **Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Campus Maranguape**.
-
-Tenho interesse em desenvolvimento de software, programação web, bancos de dados e desenvolvimento de aplicações. Estou sempre buscando aprender novas tecnologias, criar projetos desafiadores e aprimorar minhas habilidades para me tornar um engenheiro de software no futuro.
-
----
-
-## 🚀 Tecnologias
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,mysql,git,github,linux,windows,vscode,figma&perline=6)](https://skillicons.dev)
-
-</div>
-
-### Conhecimentos
-
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- SQL e MySQL
-- Git e GitHub
-- Modelagem básica de bancos relacionais
-- Sistemas operacionais Linux e Windows
+<p align="left">
+    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas"
+            title="Total de estrelas no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://github.com/SEU_USUARIO?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 🛠️ Ferramentas de desenvolvimento
+## 💻 Linguagens e Tecnologias
 
-<div align="center">
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>
 
-</div>
+<img
+    align="left"
+    alt="HTML"
+    title="HTML5"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+/>
+
+<img
+    align="left"
+    alt="CSS"
+    title="CSS3"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+
+<img
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+/>
+
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+/>
+
+<br/>
+<br/>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
-<div align="center">
+<p>
+<img
+    align="left"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriStack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img
+    align="left"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriStack&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📌 Projetos em destaque
-
-Ainda estou desenvolvendo meus primeiros projetos para publicar aqui. Em breve, esta seção contará com aplicações e experiências práticas em desenvolvimento web, APIs, JavaScript, Java e bancos de dados.
-
----
-
-## 📚 Atualmente estou aprendendo
-
-- ☕ Desenvolvimento em Java
-- 🟨 JavaScript, especialmente backend
-- 🌐 Desenvolvimento Web
-- 🔌 APIs REST
-- 🗄️ Banco de Dados
-- 🌿 Git e GitHub: branches, merge e colaboração
-- 🏗️ Arquitetura e Engenharia de Software
-
----
-
-## 🎯 Objetivos profissionais
-
-Meu objetivo é me tornar um **engenheiro de software**, desenvolvendo soluções eficientes, escaláveis e relevantes.
-
-Busco constantemente:
-
-- Aprimorar minhas habilidades de programação;
-- Criar projetos práticos e desafiadores;
-- Aprender boas práticas de desenvolvimento;
-- Colaborar em projetos e comunidades;
-- Construir uma carreira sólida na área de tecnologia.
-
----
-
-## 📫 Entre em contato
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-murilo.belizario12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilo.belizario12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MuriStack-181717?style=for-the-badge&logo=github)](https://github.com/MuriStack)
-
-</div>
-
----
-
-<div align="center">
-
-> **Sapere Aude.**
-
-</div>
+</p>
