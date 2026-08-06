@@ -13,7 +13,7 @@
 
 ---
 
-
+<br><br>
 ### 💻 Sobre Mim
 
 - 🎓 Estudante do Curso Técnico Integrado em Informática no IFCE.
