@@ -26,6 +26,8 @@
 - 📖 Sapere Aude — "Ouse saber."
 <br><br>
 
+---
+
 ### 🛠️ Tecnologias e Ferramentas:
 
 <br><br>
