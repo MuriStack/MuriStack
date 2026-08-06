@@ -55,7 +55,7 @@
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools | Tecnologias e Ferramentas
 
 <p align="center">
     <a href="https://skillicons.dev">
