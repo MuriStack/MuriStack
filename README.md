@@ -13,6 +13,8 @@
   </a>
 </p>
 
+---
+
 # 🌎 Choose your language | Escolha seu idioma
 
 <details open>
