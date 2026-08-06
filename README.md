@@ -28,7 +28,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,java,html,css,mysql,vscode,linux,windows,latex,figma,git,github)](https://skillicons.dev
+![My Skills](https://skillicons.dev/icons?i=py,js,java,html,css,mysql,vscode,linux,windows,latex,figma,git,github)
 
 ---
 
