@@ -7,7 +7,7 @@
 
 <!-- Letreiro com Efeito de Máquina de Escrever (Verde Pastel) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16324F&width=435&lines=Murilo+Beliz%C3%A1rio;Desenvolvedor+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A0C12&width=435&lines=Murilo+Beliz%C3%A1rio;Desenvolvedor+de+Software)](https://git.io/typing-svg)
 
 ---
 
