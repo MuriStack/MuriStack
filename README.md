@@ -28,27 +28,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-![Java](https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-0A192F?style=for-the-badge&logo=windows&logoColor=white)
-
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0A192F?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,html,css,mysql,vscode,linux,windows,latex,figma,git,github)](https://skillicons.dev
 
 ---
 
