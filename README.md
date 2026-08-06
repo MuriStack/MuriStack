@@ -5,13 +5,13 @@
 <!-- Typing -->
 
 <p align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A0C12&width=435&lines=Murilo+Beliz%C3%A1rio;Software+Developer"/>
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A0C12&center=true&vCenter=true&width=500&lines=Murilo+Beliz%C3%A1rio;Desenvolvedor+de+Software"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
-
 ---
 
 # 🌎 Choose your language | Escolha seu idioma
