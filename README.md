@@ -2,8 +2,7 @@
 
 <!-- Cabeçalho com Onda (Verde Suave Dracula) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A0C12,100:B8860B&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A1C1C,100:B08D57&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
 
 
 <!-- Letreiro com Efeito de Máquina de Escrever (Verde Pastel) -->
@@ -38,4 +37,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A0C12,100:B8860B&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A1C1C,100:B08D57&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
