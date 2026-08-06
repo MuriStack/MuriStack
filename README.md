@@ -26,10 +26,6 @@
 - 📖 Sapere Aude — "Ouse saber."
 <br><br>
 
----
-
-
-
 ### 🛠️ Tecnologias e Ferramentas:
 
 <br><br>
@@ -40,8 +36,6 @@
   </a>
 </p>
 
-<br><br>
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=10233D&height=100&section=footer" alt="Cabeçalho Animado" width="100%"/>
