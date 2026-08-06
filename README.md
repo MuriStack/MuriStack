@@ -12,18 +12,16 @@
 
 ---
 
-
-
 ### 💻 Sobre Mim
 
 - 🎓 Estudante do Curso Técnico Integrado em Informática no IFCE.
-- 🚀 Buscando me tornar um Engenheiro de Software e construir soluções que gerem impacto.
-- 🌐 Explorando o universo do Desenvolvimento Web e expandindo meus conhecimentos em Inteligência Artificial.
-- 💻 Atualmente estudando Java, JavaScript, HTML, CSS, APIs e Arduino.
-- 🧠 Curioso por natureza, organizado e persistente, sempre buscando aprender novas tecnologias e enfrentar desafios.
-- 📚 Acredito que a melhor forma de aprender é colocando a mão no código e desenvolvendo projetos.
+- 🚀 Em busca de me tornar um Engenheiro de Software, desenvolvendo soluções que unam criatividade, tecnologia e impacto.
+- 🌎 Explorando diferentes áreas da tecnologia, sempre movido pela curiosidade e pelo desejo de aprender.
+- 💻 Atualmente aprofundando meus conhecimentos em Java, JavaScript, HTML, CSS, APIs, Arduino e desenvolvimento de software.
+- 🧠 Curioso, organizado e persistente, acredito que grandes resultados começam com pequenos aprendizados diários.
+- 📚 Transformo teoria em prática por meio de projetos, desafios e aprendizado contínuo.
 - 🎮 Nas horas vagas gosto de jogos, leitura, violão, filmes, séries, música e esportes.
-- 📖 *Sapere Aude* — "Ouse saber."
+- 📖 Sapere Aude — "Ouse saber."
 
 ---
 
