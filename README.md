@@ -11,6 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10233D&width=435&lines=Murilo+Beliz%C3%A1rio;Desenvolvedor+de+Software)](https://git.io/typing-svg)
 
 ---
+<br><br>
 
 ### 💻 Sobre Mim
 
@@ -24,6 +25,7 @@
 - 📖 Sapere Aude — "Ouse saber."
 
 ---
+<br><br>
 
 
 ### 🛠️ Tecnologias e Ferramentas:
