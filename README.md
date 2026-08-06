@@ -14,26 +14,16 @@
 
 
 
-###  💻  Sobre Mim:
+### 💻 Sobre Mim
 
-
-
-<span style="font-family: 'Courier New', monospace">
-
-  
-
-- 🎓 Entusiasta de Ciência de Dados
-
-- 🧠 Explorando bibliotecas essenciais como NumPy e Pandas para análise e manipulação de dados.
-
-- 🔎 Aprendendo estatística aplicada e visualização de dados.
-
-- 🚀 Motivado a aprender e evoluir constantemente.
-
-- 🧩 Apaixonado por desafios lógicos e matemáticos, fã de Rubik’s Cube e Xadrez.
-
-- 🎬 Apaixonado por filmes de ficção científica e suspense, especialmente Star Wars e O Senhor dos Anéis.
-
+- 🎓 Estudante do Curso Técnico Integrado em Informática no IFCE.
+- 🚀 Buscando me tornar um Engenheiro de Software e construir soluções que gerem impacto.
+- 🌐 Explorando o universo do Desenvolvimento Web e expandindo meus conhecimentos em Inteligência Artificial.
+- 💻 Atualmente estudando Java, JavaScript, HTML, CSS, APIs e Arduino.
+- 🧠 Curioso por natureza, organizado e persistente, sempre buscando aprender novas tecnologias e enfrentar desafios.
+- 📚 Acredito que a melhor forma de aprender é colocando a mão no código e desenvolvendo projetos.
+- 🎮 Nas horas vagas gosto de jogos, leitura, violão, filmes, séries, música e esportes.
+- 📖 *Sapere Aude* — "Ouse saber."
 
 ---
 
