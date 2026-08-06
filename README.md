@@ -17,7 +17,7 @@
 
 # 🌎 Choose your language | Escolha seu idioma
 
-<details open>
+<details close>
 <summary>🇧🇷 Português</summary>
 
 <br>
