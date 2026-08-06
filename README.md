@@ -9,11 +9,9 @@
 <!-- Letreiro com Efeito de Máquina de Escrever (Verde Pastel) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10233D&width=435&lines=Murilo+Beliz%C3%A1rio;Desenvolvedor+de+Software)](https://git.io/typing-svg)
-<br><br>
 
 ---
 
-<br><br>
 ### 💻 Sobre Mim
 
 - 🎓 Estudante do Curso Técnico Integrado em Informática no IFCE.
@@ -24,13 +22,11 @@
 - 📚 Transformo teoria em prática por meio de projetos, desafios e aprendizado contínuo.
 - 🎮 Nas horas vagas gosto de jogos, leitura, violão, filmes, séries, música e esportes.
 - 📖 Sapere Aude — "Ouse saber."
-<br><br>
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-<br><br>
 
 
 <p align="center">
@@ -39,7 +35,6 @@
   </a>
 </p>
 
-<br><br>
 
 ---
 
