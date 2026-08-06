@@ -2,13 +2,13 @@
 
 <!-- Cabeçalho com Onda (Verde Suave Dracula) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10233D&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
 
 
 
 <!-- Letreiro com Efeito de Máquina de Escrever (Verde Pastel) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A192F&width=435&lines=Murilo+Beliz%C3%A1rio;Desenvolvedor+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10233D&width=435&lines=Murilo+Beliz%C3%A1rio;Desenvolvedor+de+Software)](https://git.io/typing-svg)
 
 ---
 
@@ -64,4 +64,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer" alt="Cabeçalho Animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10233D&height=100&section=footer" alt="Cabeçalho Animado" width="100%"/>
