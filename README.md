@@ -28,7 +28,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<br>
+<br><br>
 
 ---
 
