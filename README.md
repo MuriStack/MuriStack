@@ -25,7 +25,7 @@
 ## 💻 Sobre Mim
 
 - 🎓 Estudante do Curso Técnico Integrado em Informática no **IFCE – Campus Maranguape**.
-- 🚀 Buscando me tornar um **Engenheiro de Software**, desenvolvendo soluções que unam criatividade, tecnologia e impacto.
+- 🚀 Buscando me tornar um **Engenheiro da Computação**, desenvolvendo soluções que unam criatividade, tecnologia e impacto.
 - 🌎 Explorando diferentes áreas da tecnologia, sempre movido pela curiosidade e pelo desejo de aprender.
 - 💻 Atualmente aprofundando meus conhecimentos em **Java, JavaScript, HTML, CSS, APIs, Arduino** e desenvolvimento de software.
 - 🧠 Curioso, organizado e persistente. Acredito que grandes resultados começam com pequenos aprendizados diários.
@@ -43,7 +43,7 @@
 ## 💻 About Me
 
 - 🎓 Technical High School student in Computer Science at **IFCE – Maranguape Campus**.
-- 🚀 Working towards becoming a **Software Engineer**, building solutions that combine creativity, technology and real impact.
+- 🚀 Working towards becoming a **Computer Engineer**, building solutions that combine creativity, technology and real impact.
 - 🌎 Exploring different areas of technology, always driven by curiosity and the desire to learn.
 - 💻 Currently improving my skills in **Java, JavaScript, HTML, CSS, APIs, Arduino** and software development.
 - 🧠 Curious, organized and persistent. I believe great achievements begin with small daily improvements.
