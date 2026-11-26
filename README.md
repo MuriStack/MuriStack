@@ -36,7 +36,3 @@ Tenho interesse em desenvolvimento de software e exploro diferentes áreas da te
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,vscode,eclipse,arduino,latex,figma,linux,bash,docker,windows,git,github&perline=9" alt="Tecnologias e ferramentas utilizadas por Murilo Belizário" />
 </p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A0C12,100:9C7A1C&height=100&section=footer" width="100%"/>
