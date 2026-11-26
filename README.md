@@ -8,6 +8,12 @@
   Construindo projetos para transformar aprendizado, criatividade e tecnologia em soluções práticas.
 </p>
 
+<p align="center">
+  <a href="mailto:murilo.belizario12@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-murilo.belizario12%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail de Murilo Belizário" />
+  </a>
+</p>
+
 ---
 
 # 🌎 Choose your language | Escolha seu idioma
