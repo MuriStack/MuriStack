@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:murilo.belizario12@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-murilo.belizario12%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail de Murilo Belizário" />
+    <img src="https://img.shields.io/badge/E--mail-murilo.belizario12%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Murilo Belizário's email" />
   </a>
 </p>
 
@@ -34,5 +34,5 @@ I am interested in software development and explore different areas of technolog
 ## Technologies and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,vscode,eclipse,arduino,latex,figma,linux,bash,docker,windows,git,github&perline=9" alt="Tecnologias e ferramentas utilizadas por Murilo Belizário" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,vscode,eclipse,arduino,latex,figma,linux,bash,docker,windows,git,github&perline=9" alt="Technologies and tools used by Murilo Belizário" />
 </p>
