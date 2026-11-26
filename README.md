@@ -1,16 +1,11 @@
-<!-- Cabeçalho -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A0C12,100:9C7A1C&height=100&section=header" width="100%"/>
-
-<!-- Typing -->
+<h1 align="center">Murilo Belizário</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A0C12&center=true&vCenter=true&width=500&lines=Murilo+Beliz%C3%A1rio;Desenvolvedor+de+Software"
-      alt="Typing SVG"
-    />
-  </a>
+  Estudante de Informática • Desenvolvedor em formação • IFCE — Campus Maranguape
+</p>
+
+<p align="center">
+  Construindo projetos para transformar aprendizado, criatividade e tecnologia em soluções práticas.
 </p>
 
 ---
