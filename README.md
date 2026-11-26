@@ -31,7 +31,7 @@ I am interested in software development and explore different areas of technolog
 
 ---
 
-## Tecnologias e ferramentas
+## Technologies and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,vscode,eclipse,arduino,latex,figma,linux,bash,docker,windows,git,github&perline=9" alt="Tecnologias e ferramentas utilizadas por Murilo Belizário" />
