@@ -16,18 +16,18 @@
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou estudante do Curso Técnico Integrado em Informática no **Instituto Federal do Ceará (IFCE) — Campus Maranguape**.
+I am a student in the Integrated Technical Program in Computer Science at the **Federal Institute of Ceará (IFCE) — Maranguape Campus**.
 
-Tenho interesse em desenvolvimento de software e exploro diferentes áreas da tecnologia por meio de projetos, desafios e aprendizado contínuo. Meu objetivo é seguir para a **Engenharia da Computação**, criando soluções que unam criatividade, tecnologia e impacto real.
+I am interested in software development and explore different areas of technology through projects, challenges, and continuous learning. My goal is to pursue a degree in **Computer Engineering**, creating solutions that bring together creativity, technology, and real-world impact.
 
-- 💻 Atualmente estudando **Java, JavaScript, HTML, CSS, APIs, Arduino** e desenvolvimento de software.
-- 🧠 Curioso, organizado e persistente, com foco em evolução diária.
-- 📚 Gosto de transformar conceitos teóricos em prática por meio de projetos.
-- 🎸 Fora da tecnologia, gosto de música, violão, leitura, jogos, filmes, séries e esportes.
+- 💻 Currently studying **Java, JavaScript, HTML, CSS, APIs, Arduino**, and software development.
+- 🧠 Curious, organized, and persistent, with a focus on daily improvement.
+- 📚 I enjoy turning theoretical concepts into practice through projects.
+- 🎸 Outside of technology, I enjoy music, playing guitar, reading, gaming, movies, TV series, and sports.
 
-*Sapere Aude* — “Ouse saber.”
+*Sapere Aude* — “Dare to know.”
 
 ---
 
