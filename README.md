@@ -1,7 +1,7 @@
 <h1 align="center">Murilo Belizário</h1>
 
 <p align="center">
-  Estudante de Informática • Desenvolvedor em formação • IFCE — Campus Maranguape
+  Computer Science Student • Aspiring Software Developer • IFCE — Maranguape Campus
 </p>
 
 <p align="center">
