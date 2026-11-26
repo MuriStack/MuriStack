@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Construindo projetos para transformar aprendizado, criatividade e tecnologia em soluções práticas.
+  Building projects that turn learning, creativity, and technology into practical solutions.
 </p>
 
 <p align="center">
