@@ -31,12 +31,10 @@ Tenho interesse em desenvolvimento de software e exploro diferentes áreas da te
 
 ---
 
-# 🛠️ Technologies & Tools | Tecnologias e Ferramentas
+## Tecnologias e ferramentas
 
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,vscode,eclipse,arduino,latex,figma,linux,bash,docker,windows,git,github&perline=8"/>
-    </a>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,vscode,eclipse,arduino,latex,figma,linux,bash,docker,windows,git,github&perline=9" alt="Tecnologias e ferramentas utilizadas por Murilo Belizário" />
 </p>
 
 ---
