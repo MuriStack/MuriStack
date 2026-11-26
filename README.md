@@ -16,43 +16,18 @@
 
 ---
 
-# 🌎 Choose your language | Escolha seu idioma
+## Sobre mim
 
-<details close>
-<summary>🇧🇷 Português</summary>
+Sou estudante do Curso Técnico Integrado em Informática no **Instituto Federal do Ceará (IFCE) — Campus Maranguape**.
 
-<br>
+Tenho interesse em desenvolvimento de software e exploro diferentes áreas da tecnologia por meio de projetos, desafios e aprendizado contínuo. Meu objetivo é seguir para a **Engenharia da Computação**, criando soluções que unam criatividade, tecnologia e impacto real.
 
-## 💻 Sobre Mim
+- 💻 Atualmente estudando **Java, JavaScript, HTML, CSS, APIs, Arduino** e desenvolvimento de software.
+- 🧠 Curioso, organizado e persistente, com foco em evolução diária.
+- 📚 Gosto de transformar conceitos teóricos em prática por meio de projetos.
+- 🎸 Fora da tecnologia, gosto de música, violão, leitura, jogos, filmes, séries e esportes.
 
-- 🎓 Estudante do Curso Técnico Integrado em Informática no **IFCE – Campus Maranguape**.
-- 🚀 Buscando me tornar um **Engenheiro da Computação**, desenvolvendo soluções que unam criatividade, tecnologia e impacto.
-- 🌎 Explorando diferentes áreas da tecnologia, sempre movido pela curiosidade e pelo desejo de aprender.
-- 💻 Atualmente aprofundando meus conhecimentos em **Java, JavaScript, HTML, CSS, APIs, Arduino** e desenvolvimento de software.
-- 🧠 Curioso, organizado e persistente. Acredito que grandes resultados começam com pequenos aprendizados diários.
-- 📚 Transformo teoria em prática por meio de projetos, desafios e aprendizado contínuo.
-- 🎮 Nas horas vagas gosto de jogos, leitura, violão, filmes, séries, música e esportes.
-- 📖 **Sapere Aude** — *"Ouse saber."*
-
-</details>
-
-<details>
-<summary>🇺🇸 English</summary>
-
-<br>
-
-## 💻 About Me
-
-- 🎓 Technical High School student in Computer Science at **IFCE – Maranguape Campus**.
-- 🚀 Working towards becoming a **Computer Engineer**, building solutions that combine creativity, technology and real impact.
-- 🌎 Exploring different areas of technology, always driven by curiosity and the desire to learn.
-- 💻 Currently improving my skills in **Java, JavaScript, HTML, CSS, APIs, Arduino** and software development.
-- 🧠 Curious, organized and persistent. I believe great achievements begin with small daily improvements.
-- 📚 I turn theory into practice through projects, challenges and continuous learning.
-- 🎮 In my free time I enjoy gaming, reading, playing guitar, watching movies, TV series, listening to music and practicing sports.
-- 📖 **Sapere Aude** — *"Dare to know."*
-
-</details>
+*Sapere Aude* — “Ouse saber.”
 
 ---
 
