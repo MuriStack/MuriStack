@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:murilo.belizario12@aluno.ifce.edu.br">
-    <img src="https://img.shields.io/badge/E--mail-murilo.belizario12%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Murilo Belizário's email" />
+    <img src="https://img.shields.io/badge/E--mail-murilo.belizario12%40aluno.ifce.edu.br-EA4335?style=flat&logo=gmail&logoColor=white" alt="Murilo Belizário's email" />
   </a>
 </p>
 
